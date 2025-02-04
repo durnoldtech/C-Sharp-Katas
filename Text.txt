@@ -1,2 +1,1 @@
-This is a test file
-We are adding this line on test branch
+REQUEST: <?xml version="1.0" encoding="UTF-8"?> <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://schemas.discovery.co.za/vitality/rsa/"> <SOAP-ENV:Body> <ns1:CancellationRequest schemaVersion="1"> <DiscoveryMembershipNumber>1113281313</DiscoveryMembershipNumber> <DateOfBirth>1980-11-18</DateOfBirth> <GymContractNumber>0</GymContractNumber> <InstructionEffectiveDate>2025-02-04</InstructionEffectiveDate> <MaintenanceReason>PARTNER</MaintenanceReason> </ns1:CancellationRequest> </SOAP-ENV:Body> </SOAP-ENV:Envelope>

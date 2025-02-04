@@ -1,0 +1,13 @@
+C:\repos\C-Sharp-Katas\CSharpKatas\bin\Debug\net8.0\CSharpKatas.deps.json
+C:\repos\C-Sharp-Katas\CSharpKatas\bin\Debug\net8.0\CSharpKatas.dll
+C:\repos\C-Sharp-Katas\CSharpKatas\bin\Debug\net8.0\CSharpKatas.pdb
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.csproj.AssemblyReference.cache
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.AssemblyInfoInputs.cache
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.AssemblyInfo.cs
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.csproj.CoreCompileInputs.cache
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.sourcelink.json
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.dll
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\refint\CSharpKatas.dll
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\CSharpKatas.pdb
+C:\repos\C-Sharp-Katas\CSharpKatas\obj\Debug\net8.0\ref\CSharpKatas.dll
